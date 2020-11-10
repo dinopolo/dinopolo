@@ -13,8 +13,6 @@ Engenheiro Químico, Engenheiro de Segurança do Trabalho e Cientista de Dados.
 - Estou sempre em aprendizado contínuo, seja das *Hard Skills* ou das *Soft Skills*.
 - Tenho o propósito de poder ajudar e melhorar a vida das pessoas utilizando o meu conhecimento.
 
-<br />
-
 ## **Contatos** :postbox:
 
 [<img aligh="left" width="25px" src="https://i.imgur.com/CcFXI8Y.png" />](https://www.linkedin.com/in/aldinopolo/)
