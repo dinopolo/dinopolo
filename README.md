@@ -20,23 +20,17 @@ Engenheiro Químico, Engenheiro de Segurança do Trabalho e Cientista de Dados.
 [<img aligh="left" width="25px" src="https://i.imgur.com/CcFXI8Y.png" />](https://www.linkedin.com/in/aldinopolo/)
 [<img aligh="left" width="25px" src="https://i.imgur.com/8w7sr6R.png" />](https://medium.com/@aldinopolo)
 
-<br />
-
 ## **Linguagens e Ferramentas** :toolbox:
+
 <img aligh="left" width="30px" src="https://i.imgur.com/vdEQBDx.png" /><img aligh="left" width="30px" src="https://i.imgur.com/9q6Ujwd.png" /><img aligh="left" width="30px" src="https://i.imgur.com/EXvTXqH.png" /><img aligh="left" width="30px" src="https://i.imgur.com/x7vx3at.png" /><img aligh="left" width="30px" src="https://i.imgur.com/hj6pW1u.png" /><img aligh="left" width="30px" src="https://i.imgur.com/v5XlvrJ.png" /><img aligh="left" width="30px" src="https://i.imgur.com/r3OmVZC.png" /><img aligh="left" width="30px" src="https://i.imgur.com/ly21wSe.png" /><img aligh="left" width="30px" src="https://i.imgur.com/oBNjhoI.png" /><img aligh="left" width="30px" src="https://i.imgur.com/6fydcLs.png" />  
 
-<br />
-
 ## **Projetos e Análises** :chart_with_upwards_trend:
-<br />
 
 - **Prevendo a qualidade de vinhos tintos utilizando Machine Learning**: https://bit.ly/36g3bM2
 - **Detecção de Fraudes em Cartões de Crédito**: https://bit.ly/2IcXcQf
 - **Outros projetos**: https://bit.ly/355M3t3
-<br />
 
 ## **Artigos** :page_with_curl:
-<br />
 
 - **Construindo um gráfico de inclinação (slopegraph) em Python**: https://bit.ly/2I5EgmC
 - **Análise exploratória de dados em Python utilizando Pandas, Seaborn e Matplotlib**: https://bit.ly/2U3WlUe
