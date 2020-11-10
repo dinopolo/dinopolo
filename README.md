@@ -15,19 +15,10 @@ Engenheiro Químico, Engenheiro de Segurança do Trabalho e Cientista de Dados.
 ## **Contatos** :postbox:
 
 [<img aligh="left" width="25px" src="https://i.imgur.com/CcFXI8Y.png" />](https://www.linkedin.com/in/aldinopolo/)
-[<img aligh="left" width="25px" src="https://i.imgur.com/8w7sr6R.png" />](https://medium.com/@aldinopolo) [@aldinopolo
+[<img aligh="left" width="25px" src="https://i.imgur.com/8w7sr6R.png" />](https://medium.com/@aldinopolo)
 
 ## **Linguagens e Ferramentas** :toolbox:
-<img aligh="left" width="30px" src="https://i.imgur.com/vdEQBDx.png" />
-<img aligh="left" width="30px" src="https://i.imgur.com/9q6Ujwd.png" />
-<img aligh="left" width="30px" src="https://i.imgur.com/EXvTXqH.png" />
-<img aligh="left" width="30px" src="https://i.imgur.com/x7vx3at.png" />
-<img aligh="left" width="30px" src="https://i.imgur.com/hj6pW1u.png" />
-<img aligh="left" width="30px" src="https://i.imgur.com/v5XlvrJ.png" />
-<img aligh="left" width="30px" src="https://i.imgur.com/r3OmVZC.png" />
-<img aligh="left" width="30px" src="https://i.imgur.com/ly21wSe.png" />
-<img aligh="left" width="30px" src="https://i.imgur.com/oBNjhoI.png" />
-<img aligh="left" width="30px" src="https://i.imgur.com/6fydcLs.png" />  
+<img aligh="left" width="30px" src="https://i.imgur.com/vdEQBDx.png" /><img aligh="left" width="30px" src="https://i.imgur.com/9q6Ujwd.png" /><img aligh="left" width="30px" src="https://i.imgur.com/EXvTXqH.png" /><img aligh="left" width="30px" src="https://i.imgur.com/x7vx3at.png" /><img aligh="left" width="30px" src="https://i.imgur.com/hj6pW1u.png" /><img aligh="left" width="30px" src="https://i.imgur.com/v5XlvrJ.png" /><img aligh="left" width="30px" src="https://i.imgur.com/r3OmVZC.png" /><img aligh="left" width="30px" src="https://i.imgur.com/ly21wSe.png" /><img aligh="left" width="30px" src="https://i.imgur.com/oBNjhoI.png" /><img aligh="left" width="30px" src="https://i.imgur.com/6fydcLs.png" />  
 
 <br />
 <br />
