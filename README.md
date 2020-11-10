@@ -21,7 +21,6 @@ Engenheiro Químico, Engenheiro de Segurança do Trabalho e Cientista de Dados.
 <img aligh="left" width="30px" src="https://i.imgur.com/vdEQBDx.png" /><img aligh="left" width="30px" src="https://i.imgur.com/9q6Ujwd.png" /><img aligh="left" width="30px" src="https://i.imgur.com/EXvTXqH.png" /><img aligh="left" width="30px" src="https://i.imgur.com/x7vx3at.png" /><img aligh="left" width="30px" src="https://i.imgur.com/hj6pW1u.png" /><img aligh="left" width="30px" src="https://i.imgur.com/v5XlvrJ.png" /><img aligh="left" width="30px" src="https://i.imgur.com/r3OmVZC.png" /><img aligh="left" width="30px" src="https://i.imgur.com/ly21wSe.png" /><img aligh="left" width="30px" src="https://i.imgur.com/oBNjhoI.png" /><img aligh="left" width="30px" src="https://i.imgur.com/6fydcLs.png" />  
 
 <br />
-<br />
 
 ## **Projetos e Análises** :chart_with_upwards_trend:
 <br />
@@ -29,7 +28,6 @@ Engenheiro Químico, Engenheiro de Segurança do Trabalho e Cientista de Dados.
 - **Prevendo a qualidade de vinhos tintos utilizando Machine Learning**: https://bit.ly/36g3bM2
 - **Detecção de Fraudes em Cartões de Crédito**: https://bit.ly/2IcXcQf
 - **Outros projetos**: https://bit.ly/355M3t3
-<br />
 <br />
 
 ## **Artigos** :page_with_curl:
