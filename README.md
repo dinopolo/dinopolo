@@ -16,7 +16,7 @@ Engenheiro Químico, Engenheiro de Segurança do Trabalho e Cientista de Dados.
 ## **Contatos** :postbox:
 
 [<img aligh="left" width="25px" src="https://i.imgur.com/CcFXI8Y.png" />](https://www.linkedin.com/in/aldinopolo/)
-[<img aligh="left" width="25px" src="https://i.imgur.com/8w7sr6R.png" />](https://medium.com/@aldinopolo)
+[<img aligh="left" width="25px" src="https://i.imgur.com/8w7sr6R.png" />](https://aldinopolo.medium.com/)
 
 ## **Linguagens e Ferramentas** :toolbox:
 
@@ -30,6 +30,7 @@ Engenheiro Químico, Engenheiro de Segurança do Trabalho e Cientista de Dados.
 
 ## **Artigos** :page_with_curl:
 
+- **Importando dados do Google Trends utilizando R**: https://bit.ly/38rK5W8
 - **Construindo um gráfico de inclinação (slopegraph) em Python**: https://bit.ly/2I5EgmC
 - **Análise exploratória de dados em Python utilizando Pandas, Seaborn e Matplotlib**: https://bit.ly/2U3WlUe
 - **Fazendo Treemap em Python com Squarify e Matplotlib**: https://bit.ly/2TYCYMo
