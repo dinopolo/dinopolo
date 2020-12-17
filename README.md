@@ -24,7 +24,7 @@ Engenheiro Químico, Engenheiro de Segurança do Trabalho e Cientista de Dados.
 
 ## **Projetos e Análises** :chart_with_upwards_trend:
 
-- **Análise de Acidentes de Trabalho no Brasil**: Web App: http://bit.ly/3oTEwVk | Projeto: http://bit.ly/34iMG1S
+- **Web App - Acidentes de Trabalho no Brasil**: Web App: http://bit.ly/3oTEwVk | Projeto: http://bit.ly/34iMG1S
 - **Prevendo o Churn utilizando Machine Learning**: https://bit.ly/3ouKgVg
 - **Prevendo a qualidade de vinhos tintos utilizando Machine Learning**: https://bit.ly/36g3bM2
 - **Detecção de Fraudes em Cartões de Crédito**: https://bit.ly/2IcXcQf
