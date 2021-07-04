@@ -24,6 +24,7 @@ Engenheiro Químico, Engenheiro de Segurança do Trabalho e Cientista de Dados.
 
 ## **Projetos e Análises** :chart_with_upwards_trend:
 
+- **Aplicativo Web: Loadouts da Ana**: https://bit.ly/3xiPIzl - Projeto em conjunto com a Diretora de Arte e UI Designer Ana Moraes: https://bit.ly/3qLLFJp
 - **Aplicativo Web: Comparecimento em consultas médicas**: Web App: https://bit.ly/3fpdRNh | Projeto: https://bit.ly/2Q8DIQJ
 - **Análise de Risco de Crédito utilizando Machine Learning em Python**: http://bit.ly/3rZRJNU
 - **Aplicativo Web: Acidentes de Trabalho no Brasil**: Web App: http://bit.ly/3oTEwVk | Projeto: http://bit.ly/34iMG1S
