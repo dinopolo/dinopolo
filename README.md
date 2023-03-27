@@ -20,11 +20,10 @@ Engenheiro Químico, Engenheiro de Segurança do Trabalho e Cientista de Dados.
 
 ## **Linguagens e Ferramentas** :toolbox:
 
-<img aligh="left" width="30px" src="https://i.imgur.com/vdEQBDx.png" /><img aligh="left" width="30px" src="https://i.imgur.com/9q6Ujwd.png" /><img aligh="left" width="30px" src="https://i.imgur.com/EXvTXqH.png" /><img aligh="left" width="30px" src="https://i.imgur.com/x7vx3at.png" /><img aligh="left" width="30px" src="https://i.imgur.com/hj6pW1u.png" /><img aligh="left" width="30px" src="https://i.imgur.com/v5XlvrJ.png" /><img aligh="left" width="30px" src="https://i.imgur.com/r3OmVZC.png" /><img aligh="left" width="30px" src="https://i.imgur.com/ly21wSe.png" /><img aligh="left" width="30px" src="https://i.imgur.com/oBNjhoI.png" /><img aligh="left" width="30px" src="https://i.imgur.com/6fydcLs.png" />  
+<img aligh="left" width="30px" src="https://i.imgur.com/vdEQBDx.png" /><img aligh="left" width="30px" src="https://i.imgur.com/9q6Ujwd.png" /><img aligh="left" width="30px" src="https://i.imgur.com/EXvTXqH.png" /><img aligh="left" width="30px" src="https://i.imgur.com/x7vx3at.png" /><img aligh="left" width="30px" src="https://i.imgur.com/hj6pW1u.png" /><img aligh="left" width="30px" src="https://i.imgur.com/v5XlvrJ.png" /><img aligh="left" width="30px" src="https://i.imgur.com/r3OmVZC.png" /><img aligh="left" width="30px" src="https://i.imgur.com/ly21wSe.png" /><img aligh="left" width="30px" src="https://i.imgur.com/oBNjhoI.png" /><img aligh="left" width="30px" src="https://i.imgur.com/6fydcLs.png" /><img aligh="left" width="30px" src="https://i.imgur.com/IuWIYHP.png" /><img aligh="left" width="30px" src="https://i.imgur.com/ai2pjk1.png" /><img aligh="left" width="30px" src="https://i.imgur.com/yebSnk6.png" />
 
 ## **Projetos e Análises** :chart_with_upwards_trend:
 
-- **Aplicativo Web: Loadouts da Ana**: https://bit.ly/3xiPIzl - Projeto em conjunto com a Diretora de Arte e UI Designer Ana Moraes: https://bit.ly/3qLLFJp
 - **Aplicativo Web: Comparecimento em consultas médicas**: Web App: https://bit.ly/3fpdRNh | Projeto: https://bit.ly/2Q8DIQJ
 - **Análise de Risco de Crédito utilizando Machine Learning em Python**: http://bit.ly/3rZRJNU
 - **Aplicativo Web: Acidentes de Trabalho no Brasil**: Web App: http://bit.ly/3oTEwVk | Projeto: http://bit.ly/34iMG1S
