@@ -3,7 +3,10 @@ Engenheiro Químico, Engenheiro de Segurança do Trabalho e Cientista de Dados.
 
 <br />
 
-<center>![Capa](https://i.imgur.com/Oyf6KA4.png)</center>
+<p align="center">
+  <img src="https://i.imgur.com/Oyf6KA4.png" />
+</p>
+<center>![Capa]()</center>
 
 <br />
 
