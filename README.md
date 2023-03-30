@@ -6,7 +6,6 @@ Engenheiro Químico, Engenheiro de Segurança do Trabalho e Cientista de Dados.
 <p align="center">
   <img src="https://i.imgur.com/Oyf6KA4.png" />
 </p>
-<center>![Capa]()</center>
 
 <br />
 
