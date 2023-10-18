@@ -9,16 +9,14 @@ Engenheiro Químico, Engenheiro de Segurança do Trabalho e Cientista de Dados.
 
 <br />
 
-- Sou formado em Engenharia Química, tenho pós-gradução em Engenharia de Segurança do Trabalho e me tornei Cientista de Dados.
-- Procuro criar soluções para as áreas industrial, de qualidade e de segurança do trabalho através dos dados.
+- Sou formado em Engenharia Química, tenho pós-gradução em Engenharia de Segurança do Trabalho, em Engenharia de Produção,em Libras, MBA em Business Intelligence e me tornei Cientista de Dados.
+- Procuro criar soluções para o agronegócio e para as áreas industrial, de qualidade e de segurança do trabalho através dos dados.
 - Conhecimento em Python, R, Machine Learning e Estatística.
 - Estou sempre em aprendizado contínuo, seja das *Hard Skills* ou das *Soft Skills*.
-- Tenho o propósito de poder ajudar e melhorar a vida das pessoas utilizando o meu conhecimento.
 
 ## **Contatos** :postbox:
 
 [<img aligh="left" width="25px" src="https://i.imgur.com/CcFXI8Y.png" />](https://www.linkedin.com/in/aldinopolo/)
-[<img aligh="left" width="25px" src="https://i.imgur.com/8w7sr6R.png" />](https://aldinopolo.medium.com/)
 
 ## **Linguagens e Ferramentas** :toolbox:
 
@@ -26,21 +24,14 @@ Engenheiro Químico, Engenheiro de Segurança do Trabalho e Cientista de Dados.
 
 ## **Projetos e Análises** :chart_with_upwards_trend:
 
-- **Aplicativo Web: Comparecimento em consultas médicas**: Web App: https://bit.ly/3fpdRNh | Projeto: https://bit.ly/2Q8DIQJ
-- **Análise de Risco de Crédito utilizando Machine Learning em Python**: http://bit.ly/3rZRJNU
-- **Aplicativo Web: Acidentes de Trabalho no Brasil**: Web App: http://bit.ly/3oTEwVk | Projeto: http://bit.ly/34iMG1S
-- **Prevendo o Churn utilizando Machine Learning**: https://bit.ly/3ouKgVg
-- **Prevendo a qualidade de vinhos tintos utilizando Machine Learning**: https://bit.ly/36g3bM2
-- **Detecção de Fraudes em Cartões de Crédito**: https://bit.ly/2IcXcQf
-- **Outros projetos**: https://bit.ly/355M3t3
+Em construção.<br />
+Under construction.
+<br />
 
 ## **Artigos** :page_with_curl:
 
-- **Importando dados do Google Trends utilizando R**: https://bit.ly/38rK5W8
-- **Construindo um gráfico de inclinação (slopegraph) em Python**: https://bit.ly/2I5EgmC
-- **Análise exploratória de dados em Python utilizando Pandas, Seaborn e Matplotlib**: https://bit.ly/2U3WlUe
-- **Fazendo Treemap em Python com Squarify e Matplotlib**: https://bit.ly/2TYCYMo
-- **Visualizando valores faltantes em um conjunto de dados utilizando Python**: https://bit.ly/3k7tokQ
+Em construção.<br />
+Under construction.
 <br />
 
 ---
